@@ -1,0 +1,8 @@
+<AddinProject appVersion="5.0">
+	<Project platforms="Mac”>
+		<AddinFile>UrhoSharp.Previewer.XS.dll</AddinFile>
+		<AddinFile>UrhoSharp.Previewer.Core.dll</AddinFile>
+		<AddinFile>PreviewerAssets.pak</AddinFile>
+		<AddinFile>libmono-urho.dylib</AddinFile>
+	</Project>
+</AddinProject>
